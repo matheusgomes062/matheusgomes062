@@ -36,6 +36,6 @@
 
 ![Mgoedv's github stats](https://github-readme-stats.vercel.app/api?username=matheusgomes062&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomes062)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomes062)](https://github.com/anuraghazra/github-readme-stats&hide=html)
 
 [linkedin]: https://www.linkedin.com/in/mgodev/
