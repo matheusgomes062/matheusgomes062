@@ -24,6 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make GitHub turn dark!](https://dev.to/matheusgomes062/make-github-turn-dark-14a0)
+- [How to open your files with vs code from the context menu on Windows](https://dev.to/matheusgomes062/how-to-open-your-files-with-vs-code-from-the-context-menu-on-windows-5fi9)
+- [What have I learned in January of 2020](https://dev.to/matheusgomes062/what-have-i-learned-in-january-of-2020-4838)
+- [A bug was found in Java after almost 9 years of hiding.](https://dev.to/matheusgomes062/a-bug-was-found-in-java-after-almost-9-years-of-hiding-2d4k)
+- [What is NPX?](https://dev.to/matheusgomes062/what-is-npx-2oj9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
