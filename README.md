@@ -24,6 +24,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Make GitHub turn dark!](https://dev.to/matheusgomes062/make-github-turn-dark-14a0)
 - [How to open your files with vs code from the context menu on Windows](https://dev.to/matheusgomes062/how-to-open-your-files-with-vs-code-from-the-context-menu-on-windows-5fi9)
 - [What have I learned in January of 2020](https://dev.to/matheusgomes062/what-have-i-learned-in-january-of-2020-4838)
@@ -33,7 +34,7 @@
 
 ---
 
-![Mgoedv's github stats](https://github-readme-stats.vercel.app/api?username=matheusgomes062&show_icons=true&theme=radical)
+![Mgoedv's github stats](https://github-readme-stats.vercel.app/api?username=matheusgomes062&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomes062)](https://github.com/anuraghazra/github-readme-stats)
 
