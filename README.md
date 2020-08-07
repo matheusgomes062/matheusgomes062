@@ -1,6 +1,6 @@
 ## Hi there, I'm Gomes - aka mgodev 👋
 
-## I'm a Student, Developer, Designer, and more!
+## I'm a Student, Developer, Designer, and Ai enthusiast!
 
 - 🔭 I’m currently working on React Native, Vue, SASS, Node.js and C#!
 - 🌱 I’m currently learning Ai, AWS and Web Dev!
