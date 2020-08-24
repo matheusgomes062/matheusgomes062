@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on React Native, Vue, SASS, Node.js and C#!
 - 🌱 I’m currently learning Ai, AWS and Web Dev!
 - 🥅 2020 Goals: Contribute more to the Community and open a company!
-- ⚡ Fun fact: I love to draw and play video games
+- ⚡ Fun fact: I love to hackathons and art!
 
 ### Connect with me:
 
