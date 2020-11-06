@@ -3,9 +3,11 @@
 ## I'm a Student, Developer, Designer, and Ai enthusiast!
 
 - 🔭 I’m currently working on React Native, Vue, SASS, Node.js and C#!
-- 🌱 I’m currently learning Ai, AWS and Web Dev!
-- 🥅 2020 Goals: Contribute more to the Community and open a company!
+- 🌱 I’m currently learning .NET, AWS and Web Dev!
+- 🥅 2020 Goals: Contribute more to the Community and open a company*!
 - ⚡ Fun fact: I love to hackathons and art!
+
+- Edit: I oppened a compnany! pwrpixel.com
 
 ### Connect with me:
 
