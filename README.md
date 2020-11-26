@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer, Designer, and Ai enthusiast!
 
-- 🔭 I’m currently working on React Native, Vue, SASS, Node.js and C#!
-- 🌱 I’m currently learning .NET, AWS and Web Dev!
+- 🔭 I’m currently working on React Native, Vue, .NET and Angular!
+- 🌱 I’m currently learning .NET, AWS and Clean Code!
 - 🥅 2020 Goals: Contribute more to the Community and open a company*!
 - ⚡ Fun fact: I love to hackathons and art!
 
