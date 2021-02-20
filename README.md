@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to increase your rendering performance by 70% in Vue.js](https://dev.to/matheusgomes062/how-to-increase-your-rendering-performance-by-70-in-vue-js-4dia)
 - [Food review, refactoring a long method](https://dev.to/matheusgomes062/food-review-refactoring-a-long-method-4in5)
 - [Monolithic Architecture? Good or bad?](https://dev.to/matheusgomes062/monolithic-architecture-good-or-bad-1k58)
 - [Make GitHub turn dark!](https://dev.to/matheusgomes062/make-github-turn-dark-14a0)
 - [How to open your files with vs code from the context menu on Windows](https://dev.to/matheusgomes062/how-to-open-your-files-with-vs-code-from-the-context-menu-on-windows-5fi9)
-- [What have I learned in January of 2020](https://dev.to/matheusgomes062/what-have-i-learned-in-january-of-2020-4838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
