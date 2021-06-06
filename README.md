@@ -1,17 +1,17 @@
-## Hi there, I'm Gomes - aka mgodev 👋
+## Hi there, I'm Matheus Gomes - but call me Gomes 👋
 
-## I'm a Student, Developer, Designer, and Ai enthusiast!
+## I'm a Student, Developer, Writer, and Entrepreneur!
 
-- 🔭 I’m currently working on React, Vue, .NET Core 5 and Node!
-- 🌱 I’m currently learning .NET, Node and Clean Code!
+- 🔭 I’m currently working with Vue, .NET Core, Node and Dialogflow!
+- 🌱 I’m currently learning .NET, Node, Dialogflow and Clean Code!
 - 🥅 2021 Goals: Contribute more to the Community and open a company*!
-- ⚡ Fun fact: I love to hackathons (4th Plach in one) and art!
+- ⚡ Fun fact: I love hackathons (4th Plach in one) and art!
 
 - Edit*: I oppened a compnany! pwrpixel.com (AND ALREADY CLOSED IT </3)
 
 ### Connect with me:
 
-[<img align="left" alt="mgodev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="matheusgomes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
