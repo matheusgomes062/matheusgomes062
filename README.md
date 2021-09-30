@@ -2,12 +2,14 @@
 
 ## I'm a Student, Developer, Writer, and Entrepreneur!
 
-- 🔭 I’m currently working with Vue, .NET Core, Node and Dialogflow!
-- 🌱 I’m currently learning .NET, Node, Dialogflow and Clean Code!
+- 🔭 I’m currently working with Vue!
+- 🌱 I’m currently learning Java and Dropshipping!
 - 🥅 2021 Goals: Contribute more to the Community and open a company*!
 - ⚡ Fun fact: I love hackathons (4th Plach in one) and art!
+- 📖 Book: [I wrote a book](https://drive.google.com/file/d/18sS8Pb7p22uRgDwFTOh1kI4VaVSWDy9Y/view) about markdown using markdown!
+  - You can see it on [github](https://github.com/matheusgomes062/guia-markdown) also!
 
-- Edit*: I oppened a compnany! pwrpixel.com (AND ALREADY CLOSED IT </3)
+- Edit*: I oppened a compnany! pwrpixel.com
 
 ### Connect with me:
 
