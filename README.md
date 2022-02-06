@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, Writer, and Entrepreneur!
 
 - 🔭 I’m currently working with Vue!
-- 🌱 I’m currently learning Java and Dropshipping!
+- 🌱 I’m currently learning about Vue3, Vite, Typescript, WindiCSS, Node.Js, Jest and Dropshipping!
 - 🥅 2021 Goals: Contribute more to the Community and open a company*!
 - ⚡ Fun fact: I love hackathons (4th Plach in one) and art!
 - 📖 Book: [I wrote a book](https://drive.google.com/file/d/18sS8Pb7p22uRgDwFTOh1kI4VaVSWDy9Y/view) about markdown using markdown!
