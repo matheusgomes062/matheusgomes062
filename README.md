@@ -29,11 +29,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Easy fix for a simple problem](https://dev.to/matheusgomes062/easy-fix-for-a-simple-problem-j2o)
 - [Git Workflow para times e empresas!](https://dev.to/matheusgomes062/git-workflow-para-times-e-empresas-4dae)
 - [How to increase your rendering performance by 70% in Vue.js](https://dev.to/matheusgomes062/how-to-increase-your-rendering-performance-by-70-in-vue-js-4dia)
 - [Food review, refactoring a long method](https://dev.to/matheusgomes062/food-review-refactoring-a-long-method-4in5)
 - [Monolithic Architecture? Good or bad?](https://dev.to/matheusgomes062/monolithic-architecture-good-or-bad-1k58)
-- [Make GitHub turn dark!](https://dev.to/matheusgomes062/make-github-turn-dark-14a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
