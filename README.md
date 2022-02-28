@@ -1,16 +1,8 @@
-## Hi there, I'm Matheus Gomes - but call me Gomes 👋
+### Hi there 👋, my name is Matheus Gomes
+#### I am Full Stack developer / Entrepreneur
+I'm a Software Engineer specializing in building (and occasionally designing) extraordinary digital experiences. Currently working to develop a new online teaching experience.
 
-## I'm a Student, Developer, Writer, and Entrepreneur!
-
-- 🔭 I’m currently working with Vue!
-- 🌱 I’m currently learning about Vue3, Vite, Typescript, WindiCSS, Node.Js, Jest and Dropshipping!
-- 🥅 2021 Goals: Contribute more to the Community and open a company*!
-- ⚡ Fun fact: I love hackathons (4th Plach in one) and art!
-- 📖 Book: [I wrote a book](https://drive.google.com/file/d/18sS8Pb7p22uRgDwFTOh1kI4VaVSWDy9Y/view) about markdown using markdown!
-  - You can see it on [github](https://github.com/matheusgomes062/guia-markdown) also!
-- 💻 My Portfolio: [portfolio](https://mgdev.vercel.app/)
-
-- Edit*: I oppened a compnany! pwrpixel.com
+- 🔭 I’m currently working on this page.
 
 ### Connect with me:
 
