@@ -7,7 +7,12 @@
 #### I am Full Stack developer / Entrepreneur
 I'm a Software Engineer specializing in building (and occasionally designing) extraordinary digital experiences. Currently working to develop a new online teaching experience.
 
-- 🔭 I’m currently working on this page.
+
+<p align="center">
+  <a href="https://mgodev.vercel.app">
+    <img width="100" src="https://github.com/matheusgomes062/matheusgomes062/blob/master/assets/logo.svg" alt="logo" />
+  </a>
+</p>
 
 ### 📞 Connect with me:
 
