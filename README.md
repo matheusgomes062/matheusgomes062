@@ -3,7 +3,7 @@
 
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 [![Visits Badge](https://badges.pufler.dev/visits/matheusgomes062/matheusgomes062)](https://badges.pufler.dev/visits/matheusgomes062/matheusgomes062)
-[![Years Badge](https://badges.pufler.dev/years/matheusgomes062)](https://badges.pufler.dev/years/matheusgomes062)
+<!--[![Years Badge](https://badges.pufler.dev/years/matheusgomes062)](https://badges.pufler.dev/years/matheusgomes062)-->
 [![Repos Badge](https://badges.pufler.dev/repos/matheusgomes062)](https://badges.pufler.dev/repos/matheusgomes062)
 
 
