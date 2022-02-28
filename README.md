@@ -1,18 +1,16 @@
+[![](https://github.com/matheusgomes062/matheusgomes062/blob/master/assets/mgodev.gif)](https://www.mgodev.vercel.app/)
+
+
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 [![Visits Badge](https://badges.pufler.dev/visits/matheusgomes062/matheusgomes062)](https://badges.pufler.dev/visits/matheusgomes062/matheusgomes062)
 [![Years Badge](https://badges.pufler.dev/years/matheusgomes062)](https://badges.pufler.dev/years/matheusgomes062)
 [![Repos Badge](https://badges.pufler.dev/repos/matheusgomes062)](https://badges.pufler.dev/repos/matheusgomes062)
 
+
+  
 ### Hi, my name is Matheus Gomes
 #### I am Full Stack developer / Entrepreneur
 I'm a Software Engineer specializing in building (and occasionally designing) extraordinary digital experiences. Currently working to develop a new online teaching experience.
-
-
-<p align="center">
-  <a href="https://mgodev.vercel.app">
-    <img width="100" src="https://github.com/matheusgomes062/matheusgomes062/blob/master/assets/logo.svg" alt="logo" />
-  </a>
-</p>
 
 ### 📞 Connect with me:
 
