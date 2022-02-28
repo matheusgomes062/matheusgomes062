@@ -22,9 +22,9 @@ I'm a Software Engineer specializing in building (and occasionally designing) ex
 
 ---
   
-[![Stats](https://github-readme-stats.vercel.app/api?username=matheusgomes062&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=matheusgomes062&show_icons=true&theme=radical)
+[![Stats](https://github-readme-stats.vercel.app/api?username=matheusgomes062&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=matheusgomes062&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/matheusgomes062/matheusgomes062/blob/master/assets/code.gif" width="195">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=matheusgomes062&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=matheusgomes062&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/matheusgomes062/blob/master/assets/code.gif" width="195">
+[![trophy](https://github-profile-trophy.vercel.app/?username=matheusgomes062&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=matheusgomes062&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 
 ---
