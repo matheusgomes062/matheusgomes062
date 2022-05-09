@@ -35,11 +35,11 @@ I'm a Software Engineer specializing in building (and occasionally designing) ex
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TDD e seus fundamentos](https://dev.to/matheusgomes062/tdd-e-seus-fundamentos-4i5e)
 - [5 types of decision-makers](https://dev.to/matheusgomes062/5-types-of-decision-makers-221b)
 - [3 Secret Vue Patterns for Productivity Boost!](https://dev.to/matheusgomes062/3-secret-vue-patterns-for-productivity-boost-5hhm)
 - [Easy fix for a simple problem](https://dev.to/matheusgomes062/easy-fix-for-a-simple-problem-j2o)
 - [Git Workflow para times e empresas!](https://dev.to/matheusgomes062/git-workflow-para-times-e-empresas-4dae)
-- [How to increase your rendering performance by 70% in Vue.js](https://dev.to/matheusgomes062/how-to-increase-your-rendering-performance-by-70-in-vue-js-4dia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
