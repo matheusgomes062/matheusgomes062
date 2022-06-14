@@ -1,7 +1,7 @@
 [![](https://github.com/matheusgomes062/matheusgomes062/blob/master/assets/mgodev.gif)](https://mgodev.vercel.app/)
 
 
-### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="20px">
 [![Visits Badge](https://badges.pufler.dev/visits/matheusgomes062/matheusgomes062)](https://badges.pufler.dev/visits/matheusgomes062/matheusgomes062)
 [![Repos Badge](https://badges.pufler.dev/repos/matheusgomes062)](https://badges.pufler.dev/repos/matheusgomes062)
 <!--[![Years Badge](https://badges.pufler.dev/years/matheusgomes062)](https://badges.pufler.dev/years/matheusgomes062)-->
