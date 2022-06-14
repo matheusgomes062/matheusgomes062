@@ -9,7 +9,7 @@
 
 
 ### Hi, my name is Matheus Gomes
-#### I am Full Stack developer / Entrepreneur
+#### I am Front End Engineer / Entrepreneur
 I'm a Software Engineer specializing in building (and occasionally designing) extraordinary digital experiences. Currently working to develop a new online teaching experience.
 
 ### 📞 Connect with me:
