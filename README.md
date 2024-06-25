@@ -1,4 +1,4 @@
-[![](https://github.com/matheusgomes062/matheusgomes062/blob/master/assets/mgodev.gif)](https://mgodev.vercel.app/)
+[![](https://github.com/matheusgomes062/matheusgomes062/blob/master/assets/mgodev.gif)](https://mgomes.dev/)
 
 
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="3%">
@@ -44,4 +44,4 @@ I'm a Software Engineer specializing in building (and occasionally designing) ex
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/mgodev/
+[linkedin]: https://www.linkedin.com/in/matheus-gomes-dev/
