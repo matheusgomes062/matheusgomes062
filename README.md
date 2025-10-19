@@ -9,7 +9,6 @@
 
 
 ### Hi, my name is Matheus Gomes
-#### Front End Engineer
 I'm a Software Engineer specializing in building (and occasionally designing) extraordinary digital experiences.
 
 ### 📞 Connect with me:
