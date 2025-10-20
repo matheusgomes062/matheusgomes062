@@ -21,11 +21,11 @@ I'm a Software Engineer specializing in building (and occasionally designing) ex
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🧠 System Design: Foundations, Scaling Strategies, and Resilience Patterns](https://dev.to/matheusgomes062/system-design-foundations-scaling-strategies-and-resilience-patterns-1b79)
 - [Code Smells: Long Methods](https://dev.to/matheusgomes062/code-smells-long-methods-5f2p)
 - [TypeScript: An Introduction to the Statically Typed Superset of JavaScript](https://dev.to/matheusgomes062/typescript-an-introduction-to-the-statically-typed-superset-of-javascript-4hgo)
 - [Vue.js Global Summit &#39;22 - Senior Track Event Summary #1](https://dev.to/matheusgomes062/vuejs-global-summit-22-senior-track-event-summary-1-2f49)
 - [TDD e seus fundamentos](https://dev.to/matheusgomes062/tdd-e-seus-fundamentos-4i5e)
-- [5 types of decision-makers](https://dev.to/matheusgomes062/5-types-of-decision-makers-221b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
