@@ -2,19 +2,11 @@
   <img src="assets/header-neofetch.svg" width="100%" alt="neofetch-style card: Matheus Gomes, senior software engineer, 8+ years. Vue, Nuxt, React, Flutter, .NET.">
 </p>
 
-```diff
-+ what I do
-  senior front-end engineer · 8+ years · vue, nuxt, react, next, typescript
-  cross-platform apps with flutter and .net + avalonia · back end in node and nest
-  ai agents and llm workflows · mcp servers · claude code, codex, cursor
+<p align="center">
+  <img src="assets/about-diff.svg" width="100%" alt="What I do: senior front-end engineer, 8+ years, Vue, Nuxt, React, Next, TypeScript; cross-platform apps with Flutter and .NET + Avalonia; AI agents, LLM workflows, MCP servers. What you get: interfaces that ship on time and stay easy to change; accessible, typed, tested, documented. What you don&#39;t get: a rewrite six months later.">
+</p>
 
-+ what you get
-  interfaces that ship on time and stay easy to change
-  accessible by default (WCAG 2.0 AA) · typed · tested · documented
-
-- what you don't get
-  a rewrite six months later
-```
+<p align="center"><sub>Vue · Nuxt · React · Next.js · TypeScript · Flutter · .NET · Avalonia · Node · NestJS · AI agents · LLM · MCP · Claude Code · Codex · Cursor · WCAG</sub></p>
 
 ### `~/worked-with`
 
