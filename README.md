@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/neofetch.svg?v=2" width="100%" alt="neofetch-style card: Matheus Gomes, senior software engineer, 8+ years. Vue, Nuxt, React, Flutter, .NET.">
+  <img src="assets/header-neofetch.svg" width="100%" alt="neofetch-style card: Matheus Gomes, senior software engineer, 8+ years. Vue, Nuxt, React, Flutter, .NET.">
 </p>
 
 ```diff
