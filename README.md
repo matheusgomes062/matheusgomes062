@@ -50,11 +50,11 @@
 ### `~/writing`
 
 <!-- BLOG-POST-LIST:START -->
+- [From &quot;It Works&quot; to &quot;I Can Prove It Works&quot;: Rethinking My Engineering Workflow](https://dev.to/matheusgomes062/from-it-works-to-i-can-prove-it-works-rethinking-my-engineering-workflow-21f1)
 - [🧠 System Design: Foundations, Scaling Strategies, and Resilience Patterns](https://dev.to/matheusgomes062/system-design-foundations-scaling-strategies-and-resilience-patterns-1b79)
 - [Code Smells: Long Methods](https://dev.to/matheusgomes062/code-smells-long-methods-5f2p)
 - [TypeScript: An Introduction to the Statically Typed Superset of JavaScript](https://dev.to/matheusgomes062/typescript-an-introduction-to-the-statically-typed-superset-of-javascript-4hgo)
 - [Vue.js Global Summit &#39;22 - Senior Track Event Summary #1](https://dev.to/matheusgomes062/vuejs-global-summit-22-senior-track-event-summary-1-2f49)
-- [TDD e seus fundamentos](https://dev.to/matheusgomes062/tdd-e-seus-fundamentos-4i5e)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
